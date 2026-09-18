@@ -70,11 +70,7 @@ Cafe-Portfolio/
 
 ## Live Website
 
-Add the deployed website URL here:
-
-```text
-Live website: [Add live URL]
-```
+Live website: [https://baan-kaffee.vercel.app](https://baan-kaffee.vercel.app)
 
 ## Notes
 
