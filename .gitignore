@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local Sites runtime metadata
+.sites-runtime/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
